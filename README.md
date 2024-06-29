@@ -1,1 +1,1 @@
-# teacher-student-management-system
+#  A Teacher student management system (GUI) using java Swing
